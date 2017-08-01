@@ -1,0 +1,9 @@
+<html>
+<body>
+<p>Hello Admin,</p>
+	<p>The Airline with id : ${headers.id} is $action. </p>
+		
+	
+</body>
+</html>
+			
